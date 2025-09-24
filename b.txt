@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
 b file
 b
 
+=======
+b
+>>>>>>> db87a3b (modified a,b,c,d,e,f)
