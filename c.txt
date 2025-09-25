@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 
 c file
-=======
->>>>>>> db87a3b (modified a,b,c,d,e,f)
 c

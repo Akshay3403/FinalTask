@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 f file
-=======
->>>>>>> db87a3b (modified a,b,c,d,e,f)
 f
